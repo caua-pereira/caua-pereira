@@ -68,15 +68,11 @@ Aqui compartilho minha evolução, estudos e projetos na área de tecnologia �
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=caua-pereira&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
+<img 
+    align="left" 
+    height="180px" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=caua-pereira&show_icons=true&theme=tokyonight&include_all_commits=true" 
+/>
 
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-pereira&theme=tokyonight&layout=compact&langs_count=9"
-  />
-</p>
 
