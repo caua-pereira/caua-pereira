@@ -66,13 +66,4 @@ Aqui compartilho minha evolução, estudos e projetos na área de tecnologia �
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    height="180px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caua-pereira&show_icons=true&theme=tokyonight&include_all_commits=true" 
-/>
-
 
